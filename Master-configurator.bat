@@ -1,0 +1,1 @@
+bash master-configurator.sh

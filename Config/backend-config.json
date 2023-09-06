@@ -1,0 +1,79 @@
+{
+  "app": {
+    "name": "Laravel",
+    "env": "local",
+    "key": "base64:Pneyl10xQ4bex9kA0UzR5VPQTOdmWnEdlg/oKnk6mgQ=",
+    "debug": true,
+    "url": "http://localhost:3030"
+  },
+  "log": {
+    "channel": "stack",
+    "deprecations_channel": "null",
+    "level": "debug"
+  },
+  "db": {
+    "connection": "mysql",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "Database",
+    "username": "root",
+    "password": ""
+  },
+  "broadcast": {
+    "driver": "log"
+  },
+  "cache": {
+    "driver": "file"
+  },
+  "filesystem": {
+    "disk": "local"
+  },
+  "queue": {
+    "connection": "sync"
+  },
+  "session": {
+    "driver": "file",
+    "lifetime": 120
+  },
+  "memcached": {
+    "host": "127.0.0.1"
+  },
+  "redis": {
+    "host": "127.0.0.1",
+    "password": "null",
+    "port": 6379
+  },
+  "mail": {
+    "mailer": "smtp",
+    "host": "mailpit",
+    "port": 1025,
+    "username": "null",
+    "password": "null",
+    "encryption": "null",
+    "from_address": "hello@example.com",
+    "from_name": "Laravel"
+  },
+  "aws": {
+    "access_key_id": "",
+    "secret_access_key": "",
+    "default_region": "us-east-1",
+    "bucket": "",
+    "use_path_style_endpoint": false
+  },
+  "pusher": {
+    "app_id": "",
+    "app_key": "",
+    "app_secret": "",
+    "host": "",
+    "port": 443,
+    "scheme": "https",
+    "app_cluster": "mt1"
+  },
+  "vite": {
+    "app_name": "Laravel",
+    "pusher_app_key": "",
+    "pusher_host": "",
+    "pusher_port": 443,
+    "pusher_scheme": "https",
+    "pusher_app_cluster": "mt1"
+  }

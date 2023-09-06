@@ -1,0 +1,6 @@
+{
+  "api": {
+    "endpoint": "https://api.example.com",
+    "key": "your_api_key_here"
+  }
+}
