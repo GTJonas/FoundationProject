@@ -1,4 +1,4 @@
-# FirstFlow wip
+# Foundation wip
 
 Welcome to the documentation for **My Awesome Project**. This project consists of a frontend built with React and Vite and a backend powered by Laravel. Below, you'll find an overview of the project, how to set it up, and some essential information.
 
